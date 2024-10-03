@@ -1,0 +1,18 @@
+nav {
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+nav .nav ul {
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+nav .nav ul li {
+  list-style: none;
+}
+nav .nav ul li a {
+  color: #000;
+}
